@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Udom Jeremiah Simeon</h1>
+<h1 align="center">Hi 👋, I'm Jeremiah Udom</h1>
 <h3 align="center">A front end developer and mobile develope from Nigeria.</h3>
 
 - 🌱 I’m currently learning **Node.js, Express.js, and Next.js**
